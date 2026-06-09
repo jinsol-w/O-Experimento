@@ -62,5 +62,5 @@ Este projeto foi desenvolvido para praticar:
 
 ## Autor
 
-Desenvolvido por Izabella de Araujo Brito.
+Desenvolvido por Izabella de Araujo Brito e Carlos Vinicius Ferreira Morgado
 
