@@ -4,44 +4,64 @@ import random
 nome = input("Digite seu nome ou apelido")
 
 print("=== O Experimento ===")
+time.sleep(1)
 
 print("Ei!\n")
+time.sleep(1)
 
 print("Acorde", nome)
+time.sleep(1)
 
 print("Você: Onde estou?")
+time.sleep(2)
 
 print("Nós te sequestramos. Somos do governo e queremos realizar uma seleção nos cidadãos.")
+time.sleep(3)
 
 print("Você: O que??? Como assim? O que isso quer dizer?")
+time.sleep(3)
 
 print("Nós perdemos a fé na humanidade. A sociedade tem ficado cada vez mais burra...")
+time.sleep(3)
 
 print("Eu me chamo Nefário e conduzirei o experimento.")
+time.sleep(3)
 
 print("Você receberá perguntas diversas de conhecimentos básicos que todos deveriam ter.")
+time.sleep(4)
 
 print("Você precisa acertar no MÍNIMO... 8 para sobreviver.")
+time.sleep(3)
 
 print("Você: Sobreviver? Como assim?")
+time.sleep(2)
 
 print("Sim. Caso você obtenha um desempenho menor que 8/10...")
+time.sleep(3)
 
 print("Você...")
+time.sleep(1)
 
 print("Será...")
+time.sleep(1)
 
 print("Descartado!")
+time.sleep(1)
 
 print("Você: Espere, descartado? O que isso quer dizer?")
+time.sleep(2)
 
 print("Que você será 'desvivido'.")
+time.sleep(3)
 
 print("Você: O QUÊ!? ESPERA!")
+time.sleep(1)
 
 print("Boa sorte!")
+time.sleep(1)
 
 print("Você: Não! Calma!")
+time.sleep(1)
 
 banco_nivel_1 = [
     ["Qual é a capital do Brasil?", "a) São Paulo", "b) Brasília", "c) Rio de Janeiro", "b"],
@@ -219,108 +239,108 @@ print("Pontuação:", pontos, "/ 10")
 
 if pontos < 8:
     print("\nNefário: Resultado insuficiente.")
-    
+    time.sleep(3)
     print("Nefário: Você falhou no experimento", nome, ".")
-    
+    time.sleep(3)
     print("Nefário: Sinto muito... Mas você terá que ser desvivido.")
-    
+    time.sleep(3)
     print("Você: Não... espere... me dê mais uma chance.")
-    
+    time.sleep(3)
     print("Nefário: Não, você não é digno... Adeus")
-    
+    time.sleep(3)
     print("Nefário fecha a porta.")
-   
+    time.sleep(3)
     print("Você ouve um barulho de algo borbulhando.")
-    
+    time.sleep(3)
     print("Você: Nefário Ei! Nefário!")
-    
+    time.sleep(3)
     print("A Sala fica escura.")
-    
+    time.sleep(3)
     print("Você não enxerga.")
-    
+    time.sleep(3)
     print("O chão se abre lentamente...")
-    
+    time.sleep(3)
     print("Você despenca num tubo... que te joga em uma cadeira")
-    
+    time.sleep(3) 
     print("Você: O que é isso? Onde estou?")
-    
+    time.sleep(3)
     print("Seus braços são imboliziados")
-    
+    time.sleep(3)
     print("Você vê lava ao seus pés.")
-    
+    time.sleep(3)
     print("O chão se abre...")
-    
+    time.sleep(3)
     print("Fim do Experimento.")
 
 elif pontos == 8:
     print("\nNefário: Oito acertos.")
-   
+    time.sleep(3)
     print("Nefário: Você sobreviveu... por muito pouco, hein", nome, "!")
-    
+    time.sleep(3)
     print("Parabéns! Você ganhou o direito de VIVER!")
-    
+    time.sleep(3)
     print("Você: Isso não era para ser um direito básico?")
-    
+    time.sleep(3)
     print("Nefário: Você está reclamando?")
-   
+    time.sleep(2)
     print("Você: Não, senhor! Estou lisonjeado de ter passado e contribuido neste teste!")
-    
+    time.sleep(4)
     print("Nefário: Acho bom! Está liberado! Aproveite... por enquanto...")
-    
+    time.sleep(3)
     print("Você apaga... passam-se 18 horas... você acorda em casa.")
-
+    time.sleep(3)
     print("Fim do Experimento.")
 
 elif pontos == 9:
     print("\nNefário: Nove acertos.")
-    
+    time.sleep(3)
     print("Nefário: Interessante.")
-    
+    time.sleep(3)
     print("Nefário: Você é inteligente o bastante para sobreviver, mas não o bastante para nos preocupar.")
-    
+    time.sleep(3)
     print("A porta se abre completamente.")
-    
+    time.sleep(3)
     print("Nefário: Você está liberado... por enquanto...")
-    
+    time.sleep(3)
     print("Você apaga... passam-se 18 horas... você acorda em casa.")
-    
+    time.sleep(3)
     print("Fim do Experimento.")
 
 elif pontos == 10:
     print("\nNefário: Dez acertos.")
-    
+    time.sleep(3)
     print("Nefário: Perfeito demais.")
-    
+    time.sleep(3)
     print("Você: Ufa! Que bom... achei que seria mais difícil.")
-    
+    time.sleep(3)
     print("Nefário: Nenhum cidadão comum deveria saber tanto.")
-    
+    time.sleep(3)
     print("Você: Isso é bom né? Significa que estou acima da média! Posso ir para casa?.")
-   
+    time.sleep(3)
     print("Você sorri, achando que venceu.")
-    
+    time.sleep(3)
     print("Mas a tela à sua frente muda de verde para vermelho.")
-    
+    time.sleep(3)
     print("Nefário: Inteligência excessiva representa risco institucional.")
-    
+    time.sleep(3)
     print("Nefário: Você não é um sobrevivente.")
-    
+    time.sleep(3)
     print("Nefário: Você é uma ameaça ao governo.")
-    
+    time.sleep(3)
     print("Você: Ameaça? Como assim!?")
-    
+    time.sleep(2)
     print("As portas de saída se fecham.")
-    
+    time.sleep(3)
     print("Um documento aparece na tela:")
-    
+    time.sleep(3)
     print("CLASSIFICAÇÃO: PERIGO AO GOVERNO FEDERAL.")
-   
+    time.sleep(3)
     print("CONSEQUÊNCIA: ELIMINAÇÃO IMEDIATA.")
-    
+    time.sleep(3)
     print("Você percebe tarde demais.")
-    
+    time.sleep(2)
     print("Nefário pega uma seringa e diz: Obrigado pela participação...")
-    
+    time.sleep(3)
     print("Você: Não... Por favor... NÃÃÃÃÃO!")
-
+    time.sleep(3)
     print("Fim do Experimento.")
