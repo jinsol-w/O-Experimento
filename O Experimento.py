@@ -133,3 +133,42 @@ banco_nivel_7 = [
     ["Qual destes NÃO é um fenômeno natural?", "a) Chuva", "b) Eletricidade", "c) Terremoto", "a"],
     ["Qual órgão libera Insulina?", "a) Pancreas", "b) Diafragma", "c) Fígado ", "a"]
 ]
+
+banco_nivel_8 = [
+    ["Qual palavra está escrita corretamente?", "a) Excessão", "b) Exceção", "c) Esceção", "b"],
+    ["O que acontece com o tempo para um astronauta que viaja quase à velocidade da luz em relação a quem ficou na Terra?", "a) Tempo passa devagar para o astronauta", "b) Tempo passa rápido para o astronauta", "c) Tempo exatamente igual", "a"],
+    ["O que é um sinônimo?", "a) Palavra de escrita igual", "b) Singnificado Oposto", "c) Significado parecido", "c"],
+    ["Qual destas partículas subatômicas não possui carga elétrica?", "a) Nêutron", "b) Életron", "c) Próton", "a"],
+    ["Qual é a velocidade aproximada da luz no vácuo?", "a) 300.000 km/s", "b) 300.000 km/h", "c) 300.000km/m", "a"],
+    ["Qual é o país mais jovem do mundo, tendo declarado sua independência no ano de 2011?", "a) Sudão do sul", "b) Kosovo", "c) Timor-Leste", "a"],
+    ["Qual civilização antiga desenvolveu a escrita cuneiforme, considerada uma das primeiras formas de escrita da humanidade?", "a) Egípcia", "b) Suméria", "c) Fenícia", "b"],
+    ["Qual é o deserto mais seco do mundo, localizado na América do Sul?", "a) Deserto do Saara", "b) Deserto de Gobi", "c) Deserto do Atacama", "c"],
+    ["Qual foi o principal motivo que levou a queda do Império Romano  do Ocidente no ano de 476 d.C?", "a) As invasões bárbaras e a crise interna", "b) A invenção da pólvora pelos inimigos", "c) A ascensão imediata do Império Islâmico", "a"],
+    ["Qual criatura marinha possui três corações, nove cérebros e sangue da cor azul?", "a) Polvo", "b) Lula-Gigante", "c) Água-Viva", "a"]
+]
+
+banco_nivel_9 = [
+    ["Quem foi o primeiro homem a viajar para o espaço em 1961?", "a) Neil Armstrong", "b) Yuri Gagarin", "c) John Glenn", "b"],
+    ["Qual o nome do primeiro computador eletrônico digital de propósito geral da história, contruído em 1946?", "a) ENIAC", "b) IBM PC", "c) Macintosh", "a"],
+    ["Quem foi a primeira pessoa a ganhar dois Prêmios Nobel em áreas científicas diferentes?", "a) Albert Einsteni", "b) Nikola Tesla", "c) Marie Curie", "c"],
+    ["O que são as famosas 'Nuvens de Magalhães' visíveis no céu norturno do hemisfério sul?", "a) Duas galáxias satélites da Via Láctea", "b) Nebulosas onde nascem novos sistemas solares", "c) Tempestades de poeira cósmica no SIstema Solar exterior", "a"],
+    ["Qual é o metal cujo símbolo químico é Hg e que permanece em estado líquido em temperatura ambiente?", "a) Magnésio", "b) Mercúrio", "c) Hidrogênio", "b"],
+    ["Quem liderou a primeira expedição europeia a atingir o Polo Sul geográfico?", "a) Robert Falcon Scott", "b) Roald Amundsen", "c) Richard Byrd", "b"],
+    ["Qual é o elemento natural mais denso e pesado da tabela periódica?", "a) Chumbo", "b) Urânio", "c) Ósmio", "c"],
+    ["Na mitologia grega e na obra de Homero, quantos anos durou a famosa Guerra de Troia?", "a) 3 anos", "b) 10 anos", "c) 20 anos", "b"],
+    ["Quantos ossos tem um humano adulto?", "a) 312", "b) 150", "c) 206", "c"],
+    ["Qual cidade foi destruída pelo Vesúvio em 79 d.C?", "a) Pompeia", "b) Atenas", "c) Esparta", "a"]
+]
+
+banco_nivel_10 = [
+    ["Qual o nome do meu gato", "a) Nefarinho", "b) Nefarão", "c) Nao tenho gato", "a"],
+    ["Qual minha comida favorita", "a) Pizza", "b) Macarrão com Salsicha", "c) Cachorro frio", "b"],
+    ["Se eu fosse um animal, qual eu seria", "a) Tubarão", "b) Elefante", "c) Hipopotamo", "a"],
+    ["Pra qual time eu torço", "a) Flamengo", "b) Corinthians", "c) Bangu", "c"],
+    ["Qual o nome da minha mãe", "a) Nefaria", "b) Nefa", "c) Joana", "c"],
+    ["Qual a coisa que eu mais valorizo num amigo", "a) Aparencia", "b) Dinheiro", "c) Personalidade", "c"],
+    ["Quais eram minhas incriveis notas no Ensino Medio", "a) 10", "b) 9", "c) 3", "b"],
+    ["Quantos filhos eu tenho", "a) 1", "b) 2", "c) 3", "b"],
+    ["Qual meu país favorito", "a) Brasil", "b) Coreia do Norte", "c) China", "c"],
+    ["O que se deve fazer ao enviar uma mensagem escrita errada no WhatsApp", "a) Mnndar a palavra certa com *", "b) Editar mensagem", "c) Ignorar", "b"]
+]
