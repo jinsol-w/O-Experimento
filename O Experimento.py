@@ -172,3 +172,16 @@ banco_nivel_10 = [
     ["Qual meu país favorito", "a) Brasil", "b) Coreia do Norte", "c) China", "c"],
     ["O que se deve fazer ao enviar uma mensagem escrita errada no WhatsApp", "a) Mnndar a palavra certa com *", "b) Editar mensagem", "c) Ignorar", "b"]
 ]
+
+niveis = [
+    banco_nivel_1,
+    banco_nivel_2,
+    banco_nivel_3,
+    banco_nivel_4,
+    banco_nivel_5,
+    banco_nivel_6,
+    banco_nivel_7,
+    banco_nivel_8,
+    banco_nivel_9,
+    banco_nivel_10
+]
