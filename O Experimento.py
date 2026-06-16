@@ -211,3 +211,62 @@ for fase in range(len(niveis)):
         print("Você não terá uma segunda chance.")
         print("O experimento continua.")
 
+print("\n==============================")
+print("RESULTADO FINAL")
+print("==============================")
+print("Participante:", nome)
+print("Pontuação:", pontos, "/ 10")
+
+if pontos < 8:
+    print("\nNefário: Resultado insuficiente.")
+    
+    print("Nefário: Você falhou no experimento", nome, ".")
+    
+    print("Nefário: Sinto muito... Mas você terá que ser desvivido.")
+    
+    print("Você: Não... espere... me dê mais uma chance.")
+    
+    print("Nefário: Não, você não é digno... Adeus")
+    
+    print("Nefário fecha a porta.")
+   
+    print("Você ouve um barulho de algo borbulhando.")
+    
+    print("Você: Nefário Ei! Nefário!")
+    
+    print("A Sala fica escura.")
+    
+    print("Você não enxerga.")
+    
+    print("O chão se abre lentamente...")
+    
+    print("Você despenca num tubo... que te joga em uma cadeira")
+    
+    print("Você: O que é isso? Onde estou?")
+    
+    print("Seus braços são imboliziados")
+    
+    print("Você vê lava ao seus pés.")
+    
+    print("O chão se abre...")
+    
+    print("Fim do Experimento.")
+
+elif pontos == 8:
+    print("\nNefário: Oito acertos.")
+   
+    print("Nefário: Você sobreviveu... por muito pouco, hein", nome, "!")
+    
+    print("Parabéns! Você ganhou o direito de VIVER!")
+    
+    print("Você: Isso não era para ser um direito básico?")
+    
+    print("Nefário: Você está reclamando?")
+   
+    print("Você: Não, senhor! Estou lisonjeado de ter passado e contribuido neste teste!")
+    
+    print("Nefário: Acho bom! Está liberado! Aproveite... por enquanto...")
+    
+    print("Você apaga... passam-se 18 horas... você acorda em casa.")
+
+    print("Fim do Experimento.")
