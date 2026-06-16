@@ -1,7 +1,7 @@
 import time
 import random
 
-nome = input("Digite seu nome ou apelido")
+nome = input("Digite seu nome ou apelido: ")
 
 print("=== O Experimento ===")
 time.sleep(1)
