@@ -185,3 +185,29 @@ niveis = [
     banco_nivel_9,
     banco_nivel_10
 ]
+
+pontos = 0
+
+for fase in range(len(niveis)):
+    banco_atual = niveis[fase]
+    pergunta = random.choice(banco_atual)
+
+    print("\n==============================")
+    print("NÍVEL", fase + 1)
+    print("==============================")
+
+    print(pergunta[0])
+    print(pergunta[1])
+    print(pergunta[2])
+    print(pergunta[3])
+
+    resposta = input("Digite a alternativa correta: ")
+
+    if resposta == pergunta[4] or resposta == pergunta[4].upper():
+        print("Correto. Você avançou para o próximo nível.")
+        pontos = pontos + 1
+    else:
+        print("Errado. A resposta correta era:", pergunta[4])
+        print("Você não terá uma segunda chance.")
+        print("O experimento continua.")
+
