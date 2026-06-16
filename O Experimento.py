@@ -270,3 +270,57 @@ elif pontos == 8:
     print("Você apaga... passam-se 18 horas... você acorda em casa.")
 
     print("Fim do Experimento.")
+
+elif pontos == 9:
+    print("\nNefário: Nove acertos.")
+    
+    print("Nefário: Interessante.")
+    
+    print("Nefário: Você é inteligente o bastante para sobreviver, mas não o bastante para nos preocupar.")
+    
+    print("A porta se abre completamente.")
+    
+    print("Nefário: Você está liberado... por enquanto...")
+    
+    print("Você apaga... passam-se 18 horas... você acorda em casa.")
+    
+    print("Fim do Experimento.")
+
+elif pontos == 10:
+    print("\nNefário: Dez acertos.")
+    
+    print("Nefário: Perfeito demais.")
+    
+    print("Você: Ufa! Que bom... achei que seria mais difícil.")
+    
+    print("Nefário: Nenhum cidadão comum deveria saber tanto.")
+    
+    print("Você: Isso é bom né? Significa que estou acima da média! Posso ir para casa?.")
+   
+    print("Você sorri, achando que venceu.")
+    
+    print("Mas a tela à sua frente muda de verde para vermelho.")
+    
+    print("Nefário: Inteligência excessiva representa risco institucional.")
+    
+    print("Nefário: Você não é um sobrevivente.")
+    
+    print("Nefário: Você é uma ameaça ao governo.")
+    
+    print("Você: Ameaça? Como assim!?")
+    
+    print("As portas de saída se fecham.")
+    
+    print("Um documento aparece na tela:")
+    
+    print("CLASSIFICAÇÃO: PERIGO AO GOVERNO FEDERAL.")
+   
+    print("CONSEQUÊNCIA: ELIMINAÇÃO IMEDIATA.")
+    
+    print("Você percebe tarde demais.")
+    
+    print("Nefário pega uma seringa e diz: Obrigado pela participação...")
+    
+    print("Você: Não... Por favor... NÃÃÃÃÃO!")
+
+    print("Fim do Experimento.")
